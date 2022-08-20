@@ -7,5 +7,5 @@ Etwa 250 wissenschaftliche Bibliotheken nehmen an der Deutschen Bibliotheksstati
 
 Projektidee
 
-Ein Script, dass die oben beschriebene Auswertung automatisiert. 
+Ein Script, das die oben beschriebene Auswertung automatisiert. 
 
